@@ -11,6 +11,8 @@ function AboutPage() {
           This is a React app to leave feedback about a product or a service
         </p>
 
+        <p>Versoin 1.0.0</p>
+
         <p>
           <Link to="/">Home</Link>
         </p>
